@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+mlflow-output/
+*.pyc
+*.pyo
+*.pyd
+.env
